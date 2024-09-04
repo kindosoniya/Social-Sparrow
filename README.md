@@ -1,6 +1,6 @@
 # Introducing "Social Sparrow" – a dynamic and immersive social networking platform.
 
-# Author - Divy Deshmukh
+# Author - Suniya Oraon
 
 Features:-
 Responsive UI: Built with Chakra UI and Bootstrap for a responsive and modern design.
