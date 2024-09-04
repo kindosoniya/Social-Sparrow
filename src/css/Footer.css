@@ -1,0 +1,35 @@
+footer {
+  background: #141414;
+  position: absolute;
+  overflow: hidden;
+  padding: 50px 100px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+footer #fp-1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+footer .div {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+footer #fp-2 {
+  text-align: center;
+  opacity: 0.6;
+}
+
+footer #logo-footer-txt {
+  font-size: 19px;
+  position: relative;
+  left: 87.5px;
+  top: -60.5px;
+}
