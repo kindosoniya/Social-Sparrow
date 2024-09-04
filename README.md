@@ -19,7 +19,7 @@ Clone the repository:
 
 Copy code
 ```bash
-git clone https://github.com/DivyDeshmukh/Social-Sparrow.git
+git clone https://github.com/kindosoniya/Social-Sparrow.git
 cd my-app
 ```
 Install the dependencies:
